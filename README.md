@@ -3,7 +3,7 @@ mjflick.github.io
 
 ## About me:
 
-I work for a [cloud ERP](http://bizowie.com/solutions/) company and these are my GitHub repositories.
+I work for a [small business ERP](http://bizowie.com/solutions/) company and these are my GitHub repositories.
 
 This is the code repository for my [personal GitHub page](http://mjflick.github.io/).
 
